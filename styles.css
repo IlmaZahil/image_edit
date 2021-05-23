@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+p {
+  font-family: 'Courier Prime', monospace;
+  line-height: 8px;
+  font-size: 10px;
+  background: url("https://pbs.twimg.com/profile_images/1396437562999283712/IbPqKzRp_400x400.jpg");
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  background-size: 70vh;
+  
+}
+
+body {
+  background: black;
+  overflow: hidden;
+}
